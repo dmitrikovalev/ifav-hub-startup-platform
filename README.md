@@ -69,7 +69,8 @@ MVP platform for founders, investors, startups, and developers. Demonstrates AI 
 ### 1. Start the database
 
 ```bash
-cd startup-platform
+cd ifav-hub-startup-platform
+
 docker compose up -d
 ```
 
